@@ -3,8 +3,6 @@ Fine-tuning and evaluation pipeline for Arabic NLP tasks using Qwen 2.5, Groq, O
 
 ---
 
-# README.md
-
 # Arabic NLP Fine-Tuning Pipeline
 
 ## Overview
